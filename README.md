@@ -4,7 +4,6 @@
 
 ## 🇨🇳 中文版 `README.md`
 
-```markdown`
 # 手勢辨識系統 - 人臉貼圖 & GIF 動畫
 
 這是一個基於 **MediaPipe** 和 **OpenCV** 的即時手勢辨識應用程式。透過網路攝影機，你可以用手勢觸發兩種特效：
@@ -107,7 +106,7 @@ imageio-ffmpeg==0.4.9
 
 ## 🇬🇧 英文版 `README.en.md`
 ```
-```markdown```
+
 ```
 # Hand Gesture Recognition - Face Sticker & GIF Animation
 
