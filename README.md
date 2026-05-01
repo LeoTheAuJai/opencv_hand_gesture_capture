@@ -108,6 +108,7 @@ imageio-ffmpeg==0.4.9
 ## 🇬🇧 英文版 `README.en.md`
 ```
 ```markdown```
+```
 # Hand Gesture Recognition - Face Sticker & GIF Animation
 
 A real-time hand gesture recognition application based on **MediaPipe** and **OpenCV**. Use your webcam to trigger two visual effects with hand gestures:
